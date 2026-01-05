@@ -64,6 +64,15 @@ backup ai framework/
 2. pip install -r requirements.txt
 3. python app.py
 4. Open http://localhost:5000
+   # AI Agent Framework Project
+
+## 📽️ Presentation Link
+https://docs.google.com/presentation/d/1LC8VjYe13V6yIFOU-E6QDTCOdk6Wv_GW/edit?usp=sharing&ouid=112273325546229993100&rtpof=true&sd=true
+
+## 📂 Files
+- AI agent gramework ppt
+
+
 
 ## Deployment
 Deployed globally using Render cloud platform.
