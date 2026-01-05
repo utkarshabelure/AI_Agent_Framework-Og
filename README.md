@@ -70,7 +70,7 @@ backup ai framework/
 https://docs.google.com/presentation/d/1LC8VjYe13V6yIFOU-E6QDTCOdk6Wv_GW/edit?usp=sharing&ouid=112273325546229993100&rtpof=true&sd=true
 
 ## 📂 Files
-- AI agent gramework ppt
+- AI agent framework ppt
 
 
 
